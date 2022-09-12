@@ -15,3 +15,5 @@ This section will include all my assignments and project milestones:
 ## Assignment: Visualizing government debt
 
 ## Part 1: Final project
+
+[Part 1](https://prathit25.github.io/Prathit-Portfolio/TSWD2)
