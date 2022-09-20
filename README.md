@@ -12,8 +12,9 @@ Broadly, I am hoping to learn what the course title says - effectively telling s
 # Portfolio
 This section will include all my assignments and project milestones:
 
-## Assignment: Visualizing government debt
-TSWD2.md
+## Assignment 2: Visualizing government debt
+
+## Assignment 3&4: Critique by Design
 
 ## Part 1: Final project
 
