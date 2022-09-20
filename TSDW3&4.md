@@ -8,8 +8,8 @@ I wanted to find the recent visualization, which can be relateable to most of th
 
 Source: NBCUniversal News Group. (2022, September 13). Inflation tracker: How much are prices rising for U.S. consumers? NBCNews.com. Retrieved September 20, 2022, from https://www.nbcnews.com/data-graphics/inflation-tracker-how-much-prices-rising-us-consumers-n1296378  
 
-
-In my view, the graphic.is trying to convey a lot of information. There are 8 categories of monthly data, and different colors are allocated for the entire range of values. The graphic wants to convey year on year percentage change of inflation in all the categories. At the first look, I found the graphic very interesting as it was made in an unusual way. The scale at the top of graphic and colored blocks to represent every data point seemed appealing from aesthetics point of view, but they failed to give me any detailed insights from the data. I could only get a high level idea of the year on year percentage change for that category looking at the scale legend mentioned above the graphic..
+The article took data for the articles
+In my view, the graphic is trying to convey a lot of information. There are 8 categories of monthly data, and different colors are allocated for the entire range of values. The graphic wants to convey year on year percentage change of inflation in all the categories. At the first look, I found the graphic very interesting as it was made in an unusual way. The scale at the top of graphic and colored blocks to represent every data point seemed appealing from aesthetics point of view, but they failed to give me any detailed insights from the data. I could only get a high level idea of the year on year percentage change for that category looking at the scale legend mentioned above the graphic.
 
 ## Part 2: Critique the data visualization
 
@@ -78,13 +78,9 @@ Additional comment after comparing both charts were that the title in my sketch 
 
 ## Part 5: Redesigning 
 
-Here is my final redesigning after considering feedbacks from interviewees:
+While translating my sketch to Flourish after taking feedbacks from interviews, I considered all the points from my sketch. The major change was to make such a title that would give readers a clear idea of significance of the line chart. Also, since data in the original visualization was taken from multiple data sources, I manually created a table in Microsoft Excel of all data points in the original visualization. After iporting that datasheet to Flourish, I created a line chart with appropriate title and labels. Further, I grayed out lines of all subcategories, and kept overall inflation in red color. I did that keeping in mind intended audience of the chart to be retail consumers, who would be okay with studying a high level trend of those subcategories without going into too much detail. Therefore, those categories would work as a supporting data of major goods and services, and overview inflation would give a overall bird eye view.
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/11228376"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
-While translating my sketch to Flourish, I considered all the points from my sketch. The major change was to make such a title that would give readers a clear idea of significance of the line chart. Also, since data in the original visualization was taken from multiple data sources, I manually created a table in Microsoft Excel of all data points in the original visualization. After iporting that datasheet to Flourish, I created a line chart with appropriate title and labels. Further, I grayed out lines of all subcategories, and kept overall inflation in red color. I did that keeping in mind intended audience of the chart to be retail consumers, who would be okay with studying a high level trend of those subcategories without going into too much detail. Therefore, those categories would work as a supporting data of major goods and services, and overview inflation would give a overall bird eye view.
-
-## Part 6: Discussion with peers
+### Discussion with peers
 
 Another round of peer assessment was in class, where we in a group of three gave feedbacks to each other's graphics. After my explanation, both of them were okay with my chart and approach and gave positive feedback. There was only one comment which I found to be quite useful, is that line of 'overall inflation' could be highlighted in red instead of blue, as inflation is not a positive measure to read for retail consumers. Consumers would not want the commodity orices to go up. Therefore, I changed it to red color and published it again. Here is my final visualization:
 
@@ -92,5 +88,5 @@ Another round of peer assessment was in class, where we in a group of three gave
 
 ## Summary
 
-
+I took a visualization from NBC news article, which was looked very intuitive at the first look, but lacked clarity and was misleading when dug deeper. For more clarity, I changed the graphic type and made a sketch. In the process of feedback from my friends afterwards, I realized that the chart is certainly more clear and intuitive once a reader has a prior idea of what to expect from the chart. That is why, I changed my title from the sketch during my redesign in Flourish. Finally, some minor changes were further suggested during my peer assessment activity in the class, and the visualization above summarizes the year over year percentage change in prices of various goods, and also percentage change in overall inflation.
 
