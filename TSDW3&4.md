@@ -82,7 +82,15 @@ Here is my final redesigning after considering feedbacks from interviewees:
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11228376"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+While translating my sketch to Flourish, I considered all the points from my sketch. The major change was to make such a title that would give readers a clear idea of significance of the line chart. Also, since data in the original visualization was taken from multiple data sources, I manually created a table in Microsoft Excel of all data points in the original visualization. After iporting that datasheet to Flourish, I created a line chart with appropriate title and labels. Further, I grayed out lines of all subcategories, and kept overall inflation in red color. I did that keeping in mind intended audience of the chart to be retail consumers, who would be okay with studying a high level trend of those subcategories without going into too much detail. Therefore, those categories would work as a supporting data of major goods and services, and overview inflation would give a overall bird eye view.
 
+## Part 6: Discussion with peers
+
+Another round of peer assessment was in class, where we in a group of three gave feedbacks to each other's graphics. After my explanation, both of them were okay with my chart and approach and gave positive feedback. There was only one comment which I found to be quite useful, is that line of 'overall inflation' could be highlighted in red instead of blue, as inflation is not a positive measure to read for retail consumers. Consumers would not want the commodity orices to go up. Therefore, I changed it to red color and published it again. Here is my final visualization:
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/11228376"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+## Summary
 
 
 
