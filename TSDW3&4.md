@@ -2,13 +2,12 @@
 
 ## Part 1: Finding a visualization
 
-I wanted to find the recent visualization, which can be relateable to most of the class. That is why I found this article on NBC news: 
+I wanted to find the recent visualization, which can be relateable to most of the class. That is why I found this article on NBC news (please open the article in the source to get an idea of interactive visualization): 
 
 ![image](https://user-images.githubusercontent.com/113068886/191321538-3a7cb234-cb4b-4bbf-a063-9ea90578e5c5.png)
 
 Source: NBCUniversal News Group. (2022, September 13). Inflation tracker: How much are prices rising for U.S. consumers? NBCNews.com. Retrieved September 20, 2022, from https://www.nbcnews.com/data-graphics/inflation-tracker-how-much-prices-rising-us-consumers-n1296378  
 
-The article took data for the articles
 In my view, the graphic is trying to convey a lot of information. There are 8 categories of monthly data, and different colors are allocated for the entire range of values. The graphic wants to convey year on year percentage change of inflation in all the categories. At the first look, I found the graphic very interesting as it was made in an unusual way. The scale at the top of graphic and colored blocks to represent every data point seemed appealing from aesthetics point of view, but they failed to give me any detailed insights from the data. I could only get a high level idea of the year on year percentage change for that category looking at the scale legend mentioned above the graphic.
 
 ## Part 2: Critique the data visualization
