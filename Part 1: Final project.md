@@ -27,16 +27,16 @@ Other tables, graphics or visualizations will not be this interactive, as they w
 
 # Data:
 
-[Cumulative solar power capacity] (https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1785808): This official press note will provide me with the latest solar installation data, that includes solar energy cumulative installed capacity, solar rooftop plants installation, major programmes and schemes to support progress in solar rooftop plant deployment. As an assumption, same share of solar power installed capacity given in this pressnote will be extrapolated to make calculations for the target by 2030, and to make calculations of an impact of average household resident.
+[Cumulative solar power capacity](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1785808): This official press note will provide me with the latest solar installation data, that includes solar energy cumulative installed capacity, solar rooftop plants installation, major programmes and schemes to support progress in solar rooftop plant deployment. As an assumption, same share of solar power installed capacity given in this pressnote will be extrapolated to make calculations for the target by 2030, and to make calculations of an impact of average household resident.
 
 
-[Physical progress of solar energy] (https://mnre.gov.in/the-ministry/physical-progress): This site provides with building the overview of solar energy progress in India
+[Physical progress of solar energy](https://mnre.gov.in/the-ministry/physical-progress): This site provides with building the overview of solar energy progress in India
 
-[State-wise installed capacity] (https://mnre.gov.in/img/documents/uploads/file_s-1662966593443.pdf): This document provides the latest data of statewise solar plant capacity in India. In the overview section, this data might help me in making Indian map visual to depict statewise installed capacity data.
+[State-wise installed capacity](https://mnre.gov.in/img/documents/uploads/file_s-1662966593443.pdf): This document provides the latest data of statewise solar plant capacity in India. In the overview section, this data might help me in making Indian map visual to depict statewise installed capacity data.
 
-[Year wise grid connected solar power capacity] (https://mnre.gov.in/solar/solar-ongrid): This will help me build the base of grid connected solar installations till financial year 2018 - 2019. For data of next two financial years, the following links of MNRE annual reports will be used:
-[MNRE annual report 2019-20] (https://mnre.gov.in/img/documents/uploads/file_f-1597797108502.pdf): This report has the data of India’s solar energy installation for the year 2019-20 on page 19 (Final row of the table)
-[MNRE state wise install capacity as on 31.03.2021] (https://mnre.gov.in/img/documents/uploads/file_s-1623220533952.xlsx): This downloadable excel file has data of total installed capacity as for the year 2020-21.
+[Year wise grid connected solar power capacity](https://mnre.gov.in/solar/solar-ongrid): This will help me build the base of grid connected solar installations till financial year 2018 - 2019. For data of next two financial years, the following links of MNRE annual reports will be used:
+[MNRE annual report 2019-20](https://mnre.gov.in/img/documents/uploads/file_f-1597797108502.pdf): This report has the data of India’s solar energy installation for the year 2019-20 on page 19 (Final row of the table)
+[MNRE state wise install capacity as on 31.03.2021](https://mnre.gov.in/img/documents/uploads/file_s-1623220533952.xlsx): This downloadable excel file has data of total installed capacity as for the year 2020-21.
 
 All these links will be used to set up a graphic with solar energy installation trend, and to show the gap between total target and current progress.
 
