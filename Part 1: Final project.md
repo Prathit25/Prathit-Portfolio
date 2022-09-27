@@ -22,7 +22,8 @@ India’s statewise solar energy installations with its geographical distributio
 
 
 The bar graph shows the progress of India’s solar energy systems installations throughout last decade. It shows its exponential growth. Further, I would try to convey how much further deployment of solar power is needed to meet the targets as an extension of this graphic. 
-![Part 1 final project sketches_2](https://user-images.githubusercontent.com/113068886/192624019-5233ed7c-7763-46e3-8bbc-967c3bc3674b.jpg)
+![Part 1 final project sketches_1](https://user-images.githubusercontent.com/113068886/192637741-f6817f62-fb4e-4060-9dba-7911e4627a63.jpg)
+
 
 
 Other tables, graphics or visualizations will not be this interactive, as they will focus more on conveying information such as availability of reduction in carbon emissions, policies, and their impact on meeting targets. I could not visualize them at this point, as I do not have information on that until I move forward with the story and some minor calculations. Those graphics would highlight the final parts of my story, and conclude the story with a call to action for the residential customers.
