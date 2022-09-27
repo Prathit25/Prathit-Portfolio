@@ -45,5 +45,9 @@ All these links will be used to set up a graphic with solar energy installation 
 
 My project will most likely to be developed on Shorthand, as that tool was explored and discussed during the class, and seemed easy to use to make stories. To make graphics and charts necessary to build visually appealing story, I would use Flourish and Tableau. Mostly the charts would be simple enough to convey the trends in solar energy deployment in India, and various states in them. Therefore, it would be easier to use the tools that I have already used before in the class exercises and homework. If I need to make any visuals just to make the flow more appealing, I might use Canva for that. 
 
+# Reflections from in class peer review:
+
+Overall, the peers liked the topic and flow of the project. However, there are some points that was suggested that I found pretty useful. Firstly, a common suggestion was that the topic was a little technical and difficult to follow the story in technical terms. Secondly, building a narrative as to why this topic is relevant to people is missing. Therefore, I have decided to add a couple of sketches that will build a foundation between the topic and what the concept of renewable energy is. Further, clearly showing the call to action phase is important as only then the story will be relevant to the audience to listen to.
+
 
 
