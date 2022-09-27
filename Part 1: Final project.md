@@ -4,12 +4,12 @@ The project will summarize India’s rooftop solar energy targets, the country�
 
 # Broad structure:
 
-An overview about renewable energy and how is it better than conventional energy
-India specific statistics (Renewable energy targets, solar energy targets, and India’s progress towards meeting those targets): This section will cover some sketches to highlight renewable energy deployment targets set by Indian government. The flow will be narrowed down to solar energy statistics. That will summarize solar energy deployment targets, and the progress towards achieving those targets by 2030. I
-What is the gap between targets and current progress?: This section will focus on the gaps of targets and progress towards meeting those targets. 
+1. An overview about renewable energy and how is it better than conventional energy
+2. India specific statistics (Renewable energy targets, solar energy targets, and India’s progress towards meeting those targets): This section will cover some sketches to highlight renewable energy deployment targets set by Indian government. The flow will be narrowed down to solar energy statistics. That will summarize solar energy deployment targets, and the progress towards achieving those targets by 2030. 
+3. What is the gap between targets and current progress?: This section will focus on the gaps of targets and progress towards meeting those targets. 
 Different types of solar energy systems, and portion of residential solar PV systems in total installed capacity: There are two major types of solar PV systems named Utility or large scale solar plants and rooftop solar plants. I would then further discuss of role and types of rooftop solar plants, and narrow down to residential solar customers.
-What can average income households do to support this energy transition process?: This point will be demonstrated by available policies and financial assistance provided by state and federal governments.
-Impact by a single household in meeting solar energy targets: This section will give audience a call to action, concluding the of how residential solar plants can contribute to India’s solar energy targets.
+4. What can average income households do to support this energy transition process?: This point will be demonstrated by available policies and financial assistance provided by state and federal governments.
+5. Impact by a single household in meeting solar energy targets: This section will give audience a call to action, concluding the of how residential solar plants can contribute to India’s solar energy targets.
 
 
 # Sketches:
