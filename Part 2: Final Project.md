@@ -18,22 +18,30 @@ Description in each sections will provide detailed context about rationale of th
 ## Screenshots of the flow:
 
 1. Title Slide: Solar Energy progress in India  
+![Title slide](https://user-images.githubusercontent.com/113068886/193945686-77ae5d1f-6ff4-4b91-8fe5-b0eea7d0bbbd.png)
 
 2. Background slide: What is renewable energy? How is it better than conventional energy?
+![2](https://user-images.githubusercontent.com/113068886/193945768-7f156411-9b9d-439b-83f6-7d4771fc2ccd.png)
 
 I am using a bar chart in this section to highlight that solar energy has a lower life cycle emissions as compared to conventional energy resources.
 
 3. India's Progress and targets: How much progress has India made to meet their targets by 2030?
+![3](https://user-images.githubusercontent.com/113068886/193945828-3fea9802-4ac2-45a5-97b8-631d765d299a.png)
+![4](https://user-images.githubusercontent.com/113068886/193945846-620cf246-e80c-4613-a21a-a3369c18b766.png)
 
 Two charts provide information about India's snapshot of solar installed capacity till 2021, and country's progress in the last decade 
 
 4. Type of solar energy systems: Out of total target of 450 GW, how much from that is allocated for solar? How much for solar rooftop sites?
+![5](https://user-images.githubusercontent.com/113068886/193945875-9317aea1-58be-4c50-8fef-f25a4222e934.png)
 
 This section narrows down the story to residential customer by creating a flowchart
 
 5. What can you as an individual do?
+![6](https://user-images.githubusercontent.com/113068886/193945917-993a2a76-51ae-4b30-8ad9-f63e6c1963f6.png)
 
 6. Government subsidies and schemes to motivate residential customers
+![7](https://user-images.githubusercontent.com/113068886/193945938-ed47a45d-268b-4146-af8b-398c7a81cc7a.png)
+![Impact_final slide](https://user-images.githubusercontent.com/113068886/193945959-fd55f96a-3508-4602-a73b-3b2253cfa791.png)
 
 Provides solution of how to utilize various government schemes and policies to move towards renewable energy.
 
