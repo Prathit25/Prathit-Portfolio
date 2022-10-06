@@ -22,5 +22,5 @@ This section will include all my assignments and project milestones:
 
 ## Part 1: Final project
 
-[Click here to go to Part 1 of the final project](https://github.com/Prathit25/Prathit-Portfolio/blob/main/Part%201:%20Final%20project.md)
+[Click here to go to Part 1 of the final project](part1finalproject.md)
 
