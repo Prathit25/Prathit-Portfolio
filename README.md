@@ -24,3 +24,6 @@ This section will include all my assignments and project milestones:
 
 [Click here to go to Part 1 of the final project](part1finalproject.md)
 
+## Part 2: Final project
+
+[Click here to go to Part 2 of the final project](part2finalproject.md)
