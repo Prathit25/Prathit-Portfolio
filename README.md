@@ -14,7 +14,7 @@ This section will include all my assignments and project milestones:
 
 ## Assignment 2: Visualizing government debt
 
-[Click here to go to Assignment 2](https://github.com/Prathit25/Prathit-Portfolio/blob/main/TSWD2.md)
+[Click here to go to Assignment 2](TSWD2.md)
 
 ## Assignment 3&4: Critique by Design
 
