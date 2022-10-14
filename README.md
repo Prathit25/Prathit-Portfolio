@@ -31,3 +31,7 @@ This section will include all my assignments and project milestones:
 ## Part 3: Final project
 
 [Click here to go to part 3 of the final project](part3finalproject.md)
+
+## Final Project on Shorthand
+
+[Your Contribution in India's Progress in Solar Energy](https://carnegiemellon.shorthandstories.com/India-s-solar-energy-progress/index.html)
