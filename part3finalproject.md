@@ -37,7 +37,7 @@ As mentioned earlier, intended audience for this project are average income resi
 Therefore, I included specifically in the title slide that how can an individual contribute to a nation's clean energy transition targets in the next decade. To make it obvious, yet not direct, I have mentioned about that individual in the second person from as "YOU". Most commonly, I assumed that when an article or video says "how can YOU make an impact?", author tries to reach the broader audience, and therefore, residents in this context.
 
 
-### Additional notes
+### Additional notes and summary
 
 Additionally, when making a final story, I figured that renewable energy chart is not highlighting solar energy data in the first chart (life cycle emissions comparison chart). To make it visually more appealing, I created a pictogram comparing conventional vs renewable energy technologies' life cycle emissions. For the same chart, I also realized that using more colors diverted readers' focus away from solar energy data. Therefore, I made all the icons gray except solar energy. Importing icons was also a long task, as I had to download the svg file, upload it on figma and copy paste the "path" to Flourish in order to render that icon in Pictogram.
 
