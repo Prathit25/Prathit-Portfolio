@@ -56,7 +56,7 @@ Finally, during my final editing process, I found out that some of the sections 
 
 [4] Statement: India reaffirms ambitious renewable energy target at United Nations. World Resources Institute. (2021, September 25). Retrieved October 10, 2022, from https://www.wri.org/news/statement-india-reaffirms-ambitious-renewable-energy-target-united-nations
 
-[5] Schemes: Ministry of new and renewable energy, government of India. Schemes | Ministry of New and Renewable Energy, Government of India. (n.d.). Retrieved October 10, 2022, from https://mnre.gov.in/solar/schemes
+[5] Schemes: Ministry of new and renewable energy, government of India. Schemes - Ministry of New and Renewable Energy, Government of India. (n.d.). Retrieved October 10, 2022, from https://mnre.gov.in/solar/schemes
 
 [6] Benefits of rooftop solar panels and factors that further aid their installation in India. The Economic Times. (n.d.). Retrieved October 10, 2022, from https://economictimes.indiatimes.com/small-biz/productline/power-generation/benefits-of-rooftop-solar-panels-and-factors-that-further-aid-their-installation-in-india/articleshow/69233619.cms?from=mdr
 
