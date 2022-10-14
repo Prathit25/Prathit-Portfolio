@@ -7,7 +7,7 @@ Hello! I am Prathit Dave (he/him). I am a master's student in Energy Science, Te
 Prior to CMU, I was working in an energy research think tank where my projects included giving advisory support to state and central governments. I intend to work in the similar area after graduating from CMU.
 
 # What I hope to learn
-Broadly, I am hoping to learn what the course title says - effectively telling stories with data. Having worked in an advisory organization before, I came to know how important data visulizations could be. I want to learn how to convey my work in form of appealing visuals with appropriate designs and use of colors to make them more impactful.
+Broadly, I am hoping to learn what the course title says - effectively telling stories with data. Having worked in an advisory organization before, I came to know how important data visulizations could be to effectively convey particular informations. It is also important to know the use of right visualizations at right place, and to the right audience. I want to learn how to convey my work in form of appealing visuals with appropriate designs and use of colors to make them more impactful. My portfolio below acts as a summary of my work during the period of this course:
 
 # Portfolio
 This section will include all my assignments and project milestones:
