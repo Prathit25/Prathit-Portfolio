@@ -1,3 +1,5 @@
+# Part 1: Final project
+
 # Outline: 
 
 The project will summarize India’s rooftop solar energy targets, the country’s progress towards achieving those targets and how can average income households contribute to them.
@@ -53,5 +55,17 @@ My project will most likely to be developed on Shorthand, as that tool was explo
 
 Overall, the peers liked the topic and flow of the project. However, there are some points that was suggested that I found pretty useful. Firstly, a common suggestion was that the topic was a little technical and difficult to follow the story in technical terms. Secondly, building a narrative as to why this topic is relevant to people is missing. Therefore, I have decided to add a couple of sketches that will build a foundation between the topic and what the concept of renewable energy is. Further, clearly showing the call to action phase is important as only then the story will be relevant to the audience to listen to.
 
+
+## Part 2: Final project
+
+[Click here to go to Part 2 of the final project](part2finalproject.md)
+
+## Part 3: Final project
+
+[Click here to go to part 3 of the final project](part3finalproject.md)
+
+## Final Project on Shorthand
+
+[Your Contribution in India's Progress in Solar Energy](https://carnegiemellon.shorthandstories.com/India-s-solar-energy-progress/index.html)
 
 
