@@ -18,7 +18,7 @@ This section will include all my assignments and project milestones:
 
 ## Assignment 3&4: Critique by Design
 
-[Click here to go to Assignment 3&4](https://github.com/Prathit25/Prathit-Portfolio/blob/main/TSDW3%264.md)
+[Click here to go to Assignment 3&4](TSDW3&4.md)
 
 ## Part 1: Final project
 
