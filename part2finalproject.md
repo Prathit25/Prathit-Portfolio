@@ -209,3 +209,15 @@ Team members liked the flow, but they felt the story was incomplete as the final
 
 Further, conflicting views were discussed about how to align text and graphics on the screen, being consistent with keeping text and graphics on the same side of the screen, or switch their columns left and right.
 
+
+## Part 1: Final project
+
+[Click here to go to Part 1 of the final project](part1finalproject.md)
+
+## Part 3: Final project
+
+[Click here to go to part 3 of the final project](part3finalproject.md)
+
+## Final Project on Shorthand
+
+[Your Contribution in India's Progress in Solar Energy](https://carnegiemellon.shorthandstories.com/India-s-solar-energy-progress/index.html)
